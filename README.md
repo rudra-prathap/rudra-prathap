@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Rudra Prathap</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:001489&height=200&section=header&text=Hi%20👋🏻,%20I'm%20Rudra%20Prathap&fontSize=35&fontColor=FFFFFF&animation=fadeIn" />
 
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
