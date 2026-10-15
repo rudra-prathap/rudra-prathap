@@ -17,7 +17,7 @@
   <tr>
     <td>
       <b>Portfolio</b><br/>
-      <a href="https://your-portfolio-link.com">Rudra Prathap - Portfolio</a>, made with &lt;/&gt; and crafted with 💛 by Rudra Prathap
+      <a href="https://rudra-prathap-portfolio.vercel.app/">Rudra Prathap - Portfolio</a>, made with &lt;/&gt; and crafted with 💛 by Rudra Prathap
     </td>
   </tr>
 </table>
