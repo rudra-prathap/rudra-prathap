@@ -27,6 +27,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-prathap)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=white)]([https://www.linkedin.com/in/rudra-prathap](https://rudra-prathap-portfolio.vercel.app/))
 
 ## 💻 Tech Stack
 
